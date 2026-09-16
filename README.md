@@ -32,4 +32,4 @@ Buscamos um(a) desenvolvedor(a) fullstack para atuar no backend (Django) e front
 - Não será cobrado o cumprimento de horas, mas sim as entregas acordadas por sprint
 - Dispinibilidade para participação em Daily, Sprint Planning e Review necessária
 
-Interessados(as), inscreva-se: [link de inscrição]
+Interessados(as), inscreva-se: [[link de inscrição]](https://docs.google.com/forms/d/1-SqauDwfgfyDA6LYxnbvTG97fyxrdBLAYtbj7Y-U-8M/preview)
